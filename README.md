@@ -1,5 +1,4 @@
-
-Hello testing feature 1
+This project is deployed at https://5c99203326468791c749e728--lucid-hamilton-c7c4fe.netlify.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
